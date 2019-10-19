@@ -1,0 +1,42 @@
+svg {
+  background-color: #eee;
+}
+
+rect {
+	stroke: black;
+}
+
+
+
+.ART-1110 rect, .ART-1111 rect, .ART-1112 rect {
+    fill: green;
+    opacity: 0.75;
+}
+
+.ART-1010 rect,.ART-1121 rect,.ART-1123 rect, .ART-1134 rect,.ART-1144 rect,
+.ART-1164 rect, .ART-1212 rect, .ART-2234 rect, .ART-2244 rect, .ART-2264 rect,
+.ART-2281 rect, .ART-2292 rect {
+    fill: DarkOrange;
+    opacity: 0.75;
+    
+}
+
+.ART-1184 rect, .ART-2280 rect, .ART-2286 rect, .ART-1290 rect {
+    fill: red;
+    opacity: 0.75;
+}
+
+.ART-1120 rect, .ART-1124 rect, .ART-1130 rect, .ART-1223 rect, .ART-1232 rect, .ART-1233 rect,
+.ART-2224 rect, .ART-2230 rect, .ART-2240 rect, .ART-2241 rect {
+    fill: blue;
+    opacity: 0.75;
+}
+
+.P rect {
+    opacity: 0.25;
+}
+
+.P text {
+    text-decoration: line-through;
+    fill: black;
+}
